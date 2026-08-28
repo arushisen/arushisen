@@ -11,10 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->.
 
 # 💫 About Me:
-aspiring something career major yada yada
+My name is Arushi Sen. I'm a sophomore at the University of Texas at Austin!
+
+As an ECE major, I’m driven by the challenge of creating innovative solutions through code that merges creativity with technology. With my love for learning and unrelenting persistence, I believe I will be able to find future success through technology.
+
+I also really enjoy singing (I am a trained Hindustani classical singer), swimming (I am a certified shallow and deep water lifeguard), and reading (if there was a way to be a certified bookworm, I would be it)!
 
 
 # 💻 Tech Stack:
