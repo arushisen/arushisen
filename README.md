@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-My name is Arushi Sen. I'm a sophomore at the University of Texas at Austin!
+My name is Arushi Sen. I'm a student at the University of Texas at Austin!
 
 As an ECE major, I’m driven by the challenge of creating innovative solutions through code that merges creativity with technology. With my love for learning and unrelenting persistence, I believe I will be able to find future success through technology.
 
